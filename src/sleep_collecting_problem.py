@@ -1,6 +1,6 @@
 import pytest
 import unittest
-from src.helper import execute_test
+from helper import execute_test
 
 
 @pytest.mark.usefixtures("one_time_set_up", "set_up")

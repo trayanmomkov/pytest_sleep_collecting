@@ -1,6 +1,6 @@
 import unittest
 import pytest
-from src.sleep_collecting_problem import SleepProblem
+from sleep_collecting_problem import SleepProblem
 
 
 @pytest.yield_fixture()
